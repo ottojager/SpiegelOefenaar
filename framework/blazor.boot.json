@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SpiegelOefenaar",
   "resources": {
-    "hash": "sha256-txc3hf7hiWX3ZiDqmbwTv6HdWUSnKe21pJ01TtV42LY=",
+    "hash": "sha256-emR0thipCSjqopuzNy1RHs8KFHML5PxEVdtLWra4XkU=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.vzmmx3o2eq.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-r9dkR5134QvSR5zRWncgwA3QgGc2mbiRwhPteP2xbpk=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-2bohIT7/qEC9nPtjBrESwyddQ86eqIfABSFaK7lb55A=",
-      "SpiegelOefenaar.wasm": "sha256-jv2va3ckW6ZwR+9rEZfubcWCLd0YoA80lcnDKG2qMYY=",
+      "SpiegelOefenaar.wasm": "sha256-579o3BOo6glIXD+QvQbJ9WTl78fvr7Rc7OikVRaGAko=",
       "System.Collections.Concurrent.wasm": "sha256-UU9I5VkI7A2FSN97cflYz2yyRGWJC1emtbhGQS8fzt4=",
       "System.Collections.NonGeneric.wasm": "sha256-fJB6kJgXKjPEGuDHMuD9D5F31T8MBLRfVbkqjDLkBHI=",
       "System.Collections.Specialized.wasm": "sha256-bSLSG/4k9ULP+xRVAH4KVyZsqGiV0JUGJcnMwGqgg1Y=",
