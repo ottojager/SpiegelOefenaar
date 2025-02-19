@@ -1719,7 +1719,6 @@ TONY: Ik denk dat ze het helemaal gaat maken, weet je dat. Ze is in topvorm, ze 
 DANNY: Ze vindt het heerlijk om zich te laten opzwepen...
 TONY: Oh, zéker.
 SUZAN: Waar hebben jullie het allebei over? 
-LUIDSPREKER
 DANNY: Hey… Het feest gaat beginnen!
 SUZAN: Wil iemand mij vertellen wat er aan de hand is?
 TONY: Aha! Kijk eens wie we hier hebben...
@@ -1785,7 +1784,7 @@ SUZAN: Muriel?
 MURIEL: Momentje mevrouw, ben zo bij u. 
 BILL: Prima. Precies wat de dokter heeft voorgeschreven. Eerste klas orkestje is dit. Wie zijn die luitjes?
 TONY: Oh, dat zijn allemaal - wacht even - wat zijn dat ook alweer, Danny?
-DANNY: Klusjesmann...
+DANNY: Klusjesmannen
 TONY: Dat was het. Zijn allemaal klusjesmannen. Limburgse klusjesmannen!
 BILL: Niet te geloven.
 MURIEL: Mevrouw?
@@ -1835,7 +1834,7 @@ DANNY: Ik weet het, lieveling, ik weet het...
 SUZAN: Nee! Niet met hem! Niet met hem! Lucy, m'n liefste, trouw niet met hem. Ga weg, ga onmiddellijk weg. Ricky! Je mag niet met haar trouwen, dat verbied ik.
 LUCY: Het heeft geen zin mammie, hij spreekt onze taal niet.
 TONY: Ze zijn trouwens al maanden getrouwd.
-DANNY: Last maar. Ik weet zeker dat je een goeie echtgenoot voor Tess zult zijn, jongeman.
+DANNY: Laat maar. Ik weet zeker dat je een goeie echtgenoot voor Tess zult zijn, jongeman.
 SUZAN: Tess?
 RICK: Ik zal het proberen, meneer. Ik zal mijn best doen om haar te kortwieken en haar voller te maken.
 FRED: God zegen je, God zegen je, God zegen je...
@@ -1844,7 +1843,7 @@ RICK: Ik wist dat we een kans maakten. Maar het was Tess die het klaarspeelde. Z
 DANNY: Ik heb je de hele rit gevolgd met de verrekijker. Ik maakte me zorgen toen er nog zo'n kilometertje te gaan was en je nog steeds niet was weggesprongen, maar ik begreep je tactiek. Ik zeg maar zo, als je een snelle eindsprint hebt, moet je hem gebruiken ook, hè?
 
 Pag. 107
-TONY: Wat ik zo fantastisch aan de races vind, is dat de races zelf er geen moer te doen. De hele affaire is   n groot sociaal evenement dat volgens mij alleen bedoeld is ter consumptie van een maximum aan flessen champy. 
+TONY: Wat ik zo fantastisch aan de races vind, is dat de races zelf er geen moer te doen. De hele affaire is één groot sociaal evenement dat volgens mij alleen bedoeld is ter consumptie van een maximum aan flessen champy. 
 BILL: Dit is de schitterendste racebaan waar ik ooit geweest ben. Als je het mij vraagt is [...] hierbij vergeleken niet meer dan de binnenrand van een bolhoed. Ik bedoel, hier heb je alles. Thailand daar en de Kaspische Zee daar. En natuurlijk ook het crème de la crème van onze natie. Mieters. 
 FRED: Weet je, ik ben hier niet meer geweest sinds - wat zal het geweest zijn - 1388, schat ik. Is het al zo lang geleden? Je ziet er geen dag ouder uit Danny, ouwe jongen. Ik hoop dat van mij hetzelfde gezegd kan worden. Ik betwijfel het. Sommige mensen slijten nu eenmaal harder dan anderen, hè?
 SUZAN: Dit is ontzettend oneerlijk, en dat meen ik. Waarom doet iedereen alsof ik er niet ben? Waarom kijken jullie mij niet aan? Kijk mij onmiddellijk aan, hoor je dat! Jullie allemaal! 
@@ -1869,8 +1868,7 @@ MURIEL: Harry, meneer.
 DANNY: Prachtig. Dat is - de hoeveelste - nu?
 MURIEL: Dit wordt mijn tiende Harry, meneer.
 DANNY: Goed zo. Blijf zo doorgaan.
-Goed dan. Muriel, pak zelf ook een glas, voor deze gelegenheid mag je met ons meedoen... 
-Dames en Heren, ik wil graag een toast uitbrengen op de vrouw die niet alleen de belangrijkste figuur in mijn leven is - maar die, naar ik vermoed, de belangrijkste figuur in ons aller leven is...
+DANNY: Goed dan. Muriel, pak zelf ook een glas, voor deze gelegenheid mag je met ons meedoen... Dames en Heren, ik wil graag een toast uitbrengen op de vrouw die niet alleen de belangrijkste figuur in mijn leven is - maar die, naar ik vermoed, de belangrijkste figuur in ons aller leven is...
 TONY: Bravo... bravo... absoluut...
 LUCY: Bravo... bravo... absoluut...
 RICK: Bravo... bravo... absoluut...
